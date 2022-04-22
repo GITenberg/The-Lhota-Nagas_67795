@@ -5,12 +5,17 @@ contributor:
     agent_name: Hutton, J. H.
     gutenberg_agent_id: '54462'
     url: http://www.gutenberg.org/2009/agents/54462
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mills, J. P.
     gutenberg_agent_id: '54461'
     url: http://www.gutenberg.org/2009/agents/54461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67795#The-Lhota-Nagas
 gutenberg_issued: '2022-04-07'
 identifiers:
   gutenberg: '67795'
